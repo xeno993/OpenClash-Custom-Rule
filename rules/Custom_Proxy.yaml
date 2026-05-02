@@ -1,8 +1,8 @@
 #Title: Custom Proxy Rule
 #--------------------------------------
-#Total lines: 0
-#Version: 3427833-dirty
-#Update time: 2026-05-02 15:51:24 UTC+8
+#Total lines: 14
+#Version: 3be2527
+#Update time: 2026-05-02 15:55:44 UTC+8
 #Update content: auto-update
 
 #Homepage: https://github.com
@@ -10,4 +10,5 @@
 payload:
   - 'hgemby.qzz.io'
   - 'notifications.bitwarden.com'
+  - 'push.services.mozilla.com'
   - 'push.services.mozilla.com'
