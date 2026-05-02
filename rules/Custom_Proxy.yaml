@@ -1,0 +1,11 @@
+#Title: Custom Proxy Rule
+#--------------------------------------
+#Total lines: 0
+#Version: 0.0.1-release
+#Update time: 2026-05-02 15:21:42 UTC+8
+#Update content: init
+
+#Homepage: https://github.com
+#License: https://github.com
+payload:
+  - 'hgemby.qzz.io'
