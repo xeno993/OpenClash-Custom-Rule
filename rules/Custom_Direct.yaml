@@ -2,10 +2,10 @@
 #--------------------------------------
 #Total lines: 1
 #Version: 3be2527
-#Update time: 2026-07-01 22:03:51 UTC+8
+#Update time: 2026-07-01 22:08:51 UTC+8
 #Update content: auto-update
 
 #Homepage: https://github.com
 #License: https://github.com
 payload:
-  - 'domain:sunsoak.cc.cd'
+  - 'domain-suffix:sunsoak.cc.cd'
