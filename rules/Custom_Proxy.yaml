@@ -2,12 +2,12 @@
 #--------------------------------------
 #Total lines: 3
 #Version: 3be2527
-#Update time: 2026-07-01 22:08:51 UTC+8
+#Update time: 2026-07-05 21:31:43 UTC+8
 #Update content: auto-update
 
 #Homepage: https://github.com
 #License: https://github.com
-payload:
-  - 'domain-suffix:hgemby.qzz.io'
-  - 'domain-suffix:notifications.bitwarden.com'
-  - 'domain-suffix:push.services.mozilla.com'
+
++.hgemby.qzz.io
++.notifications.bitwarden.com
++.push.services.mozilla.com
